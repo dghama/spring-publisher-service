@@ -131,3 +131,7 @@ The API provides endpoints for managing:
 - **Authors** – Manage author information and relationships to books/magazines
 
 ---
+## Postman collection link 
+
+https://web.postman.co/workspace/My-Workspace~60f74345-bb67-44de-89ff-b1ef0e3660c8/collection/29612292-beefa7c5-5a8f-4c6f-8ffe-4b2b5910f733?action=share&source=copy-link&creator=29612292
+ 
