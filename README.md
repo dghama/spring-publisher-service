@@ -1,10 +1,8 @@
 # Publisher Management System
 
 ## Description
-
-L'objectif est de créer une **API REST** pour gérer les **publications** d'un éditeur (livres et magazines) et les **auteurs**.
-
-A comprehensive system to manage publishers, books, magazines, and authors with a RESTful API architecture.
+A comprehensive system to manage publishers, books, magazines, and authors using a RESTful API architecture.
+The objective is to create a RESTful API to manage a publisher’s publications (books and magazines) as well as authors.
 
 ---
 
