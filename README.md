@@ -69,7 +69,7 @@ Before running this application, ensure you have the following installed on your
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/publisherManagementSystem.git
+git clone https://github.com/dghama/publisherManagementSystem.git
 cd publisherManagementSystem
 ```
 
